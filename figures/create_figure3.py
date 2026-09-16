@@ -103,8 +103,8 @@ def draw_mvmr_panel_fixed(ax, data, title, cond_f, x_start=0.5, x_end=5.5):
     ax.spines['left'].set_visible(False)
 
 # Draw panels
-draw_mvmr_panel_fixed(ax1, mdd_mvmr, 'Panel A: MDD to Anxiety', 24.7, x_start=0.5, x_end=5.5)
-draw_mvmr_panel_fixed(ax2, anx_mvmr, 'Panel B: Anxiety to MDD', 20.0, x_start=0.7, x_end=3.0)
+draw_mvmr_panel_fixed(ax1, mdd_mvmr, 'Panel A: MDD to Anxiety', 15.6, x_start=0.5, x_end=5.5)
+draw_mvmr_panel_fixed(ax2, anx_mvmr, 'Panel B: Anxiety to MDD', 12.9, x_start=0.7, x_end=3.0)
 
 # Add note
 fig.text(0.5, -0.08, '* Significant at P < 0.05. CI = confidence interval.',

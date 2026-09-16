@@ -62,8 +62,8 @@ evidence_table <- data.table(
     sprintf("OR=%.2f", mr_mdd[Method=="Weighted median", OR]),
     "Global P<10^-150",
     sprintf("P=%.3f (no pleiotropy)", pleio_mdd[, P]),
-    "OR=1.15, condF=24.7",
-    sprintf("r=%.3f", 0.263),
+    "OR=1.15, condF=15.6",
+    sprintf("r=%.3f", 0.90),
     "48%",
     "1798 SNPs"
   ),
@@ -73,8 +73,8 @@ evidence_table <- data.table(
     sprintf("OR=%.2f", mr_anx[Method=="Weighted median", OR]),
     "Global P<10^-50",
     sprintf("P=%.3f (pleiotropy!)", pleio_anx[, P]),
-    "OR=1.10, condF=20.0",
-    sprintf("r=%.3f", 0.263),
+    "OR=1.10, condF=12.9",
+    sprintf("r=%.3f", 0.90),
     "48%",
     "1798 SNPs"
   )
@@ -90,12 +90,12 @@ cat("\n\nStep 3: Causal inference logic...\n\n")
 
 # MDD -> Anxiety
 cat("=== MDD -> Anxiety ===\n")
-cat("✅ MR IVW: OR=2.35, highly significant\n")
+cat("✅ MR IVW: OR=2.34, highly significant\n")
 cat("✅ MR-Egger: OR=2.30, consistent with IVW\n")
-cat("✅ Egger intercept P=0.543: no directional pleiotropy\n")
+cat("✅ Egger intercept P=0.864: no directional pleiotropy\n")
 cat("✅ Weighted Median: OR=2.28, robust\n")
 cat("⚠️ MVMR: OR attenuated to 1.15 but still significant\n")
-cat("✅ Genetic correlation: r=0.263 (moderate)\n")
+cat("✅ Genetic correlation: r=0.90 (near-complete)\n")
 cat("✅ Colocalization: 48% loci with PP.H4>0.5\n")
 cat("\n=> CONCLUSION: Strong evidence for causal effect\n\n")
 
@@ -103,10 +103,10 @@ cat("\n=> CONCLUSION: Strong evidence for causal effect\n\n")
 cat("=== Anxiety -> MDD ===\n")
 cat("✅ MR IVW: OR=1.68, significant\n")
 cat("⚠️ MR-Egger: OR=1.28, lower than IVW\n")
-cat("⚠️ Egger intercept P=0.013: directional pleiotropy present\n")
+cat("⚠️ Egger intercept P=0.006: directional pleiotropy present\n")
 cat("✅ Weighted Median: OR=1.63, intermediate\n")
 cat("⚠️ MVMR: OR attenuated to 1.10\n")
-cat("✅ Genetic correlation: r=0.263\n")
+cat("✅ Genetic correlation: r=0.90\n")
 cat("✅ Colocalization: 48% loci with PP.H4>0.5\n")
 cat("\n=> CONCLUSION: Causal effect present but potentially inflated by pleiotropy\n\n")
 
@@ -163,8 +163,8 @@ report <- sprintf("
 ## MDD -> Anxiety
 - **Causal Evidence Score**: %d/14 (%s)
 - **Key Findings**:
-  - MR IVW OR = 2.35, P < 10^-250
-  - No directional pleiotropy (Egger intercept P = 0.543)
+  - MR IVW OR = 2.34, P < 10^-250
+  - No directional pleiotropy (Egger intercept P = 0.864)
   - Results robust across 5 MR methods
   - Effect attenuated after MVMR but still significant
 - **Conclusion**: Strong genetic evidence supports a causal effect of MDD on anxiety
@@ -173,13 +173,13 @@ report <- sprintf("
 - **Causal Evidence Score**: %d/14 (%s)
 - **Key Findings**:
   - MR IVW OR = 1.68, P < 10^-100
-  - Directional pleiotropy detected (Egger intercept P = 0.013)
+  - Directional pleiotropy detected (Egger intercept P = 0.006)
   - MR-Egger OR = 1.28, Weighted Median OR = 1.63
   - Effect attenuated after MVMR
 - **Conclusion**: Causal effect present but potentially inflated by pleiotropy
 
 ## Shared Genetic Architecture
-- Genetic correlation: r = 0.263 (moderate)
+- Genetic correlation: r = 0.90 (near-complete)
 - Colocalization: 48%% loci support shared causal variant
 - Top shared loci: CACNA1C, DRD2, ASTN2, AUTS2
 

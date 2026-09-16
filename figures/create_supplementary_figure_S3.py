@@ -42,7 +42,7 @@ ax1.axvline(x=0.85, color='#2C3E50', linestyle='--', linewidth=2.5)
 
 ax1.scatter(effects_mdd, precision, alpha=0.5, s=40, c='#2471A3', edgecolors='white', linewidth=0.8)
 
-ax1.text(0.02, 0.95, 'No directional pleiotropy\nEgger intercept P = 0.543',
+ax1.text(0.02, 0.95, 'No directional pleiotropy\nEgger intercept P = 0.864',
          transform=ax1.transAxes, fontsize=14, color='#1E8449', style='italic',
          verticalalignment='top', bbox=dict(boxstyle='round', facecolor='#E8F8F5', edgecolor='#1E8449', linewidth=2))
 
@@ -76,7 +76,7 @@ ax2.axvline(x=0.52, color='#2C3E50', linestyle='--', linewidth=2.5)
 
 ax2.scatter(effects_anx, precision2, alpha=0.6, s=50, c='#A93226', edgecolors='white', linewidth=0.8)
 
-ax2.text(0.02, 0.95, 'Possible directional pleiotropy\nEgger intercept P = 0.013',
+ax2.text(0.02, 0.95, 'Possible directional pleiotropy\nEgger intercept P = 0.006',
          transform=ax2.transAxes, fontsize=14, color='#A93226', style='italic',
          verticalalignment='top', bbox=dict(boxstyle='round', facecolor='#FADBD8', edgecolor='#A93226', linewidth=2))
 

@@ -62,7 +62,7 @@ draw_arrow(ax, 13, 29.8, 13, 28.6)
 
 # Level 3: LD Clumping - MORE SPACE
 draw_box(ax, 13, 24.2, 18, 1.8, 
-         'Real LD Clumping (1000 Genomes Phase 3 European Reference)\nP < 5 x 10^-8, r2 < 0.001, 10,000 kb window', 
+         'LD Clumping against the 1000 Genomes European Reference Panel\nP < 5 x 10^-8, r2 < 0.001, 10,000 kb window', 
          PURPLE, fontsize=15)
 draw_arrow(ax, 13, 26.3, 13, 25.3)
 
@@ -91,7 +91,7 @@ draw_arrow(ax, 19.5, 17.3, 19.5, 16.0)
 
 # Level 6: MVMR - MORE SPACE
 draw_box(ax, 13, 11.5, 20, 2.2, 
-         'Multivariable MR (MVMR)\nAdjusting for BMI, Education, and Smoking Initiation\n\nMDD to Anxiety: conditional F = 24.7  |  Anxiety to MDD: conditional F = 20.0',
+         'Multivariable MR (MVMR)\nAdjusting for BMI, Education, and Smoking Initiation\n\nMDD to Anxiety: conditional F = 15.6  |  Anxiety to MDD: conditional F = 12.9',
          ORANGE, fontsize=15)
 
 draw_arrow(ax, 6.5, 13.7, 6.5, 12.5, color=ORANGE)
@@ -114,11 +114,11 @@ ax.text(6.5, 2.8, 'Results:', ha='center', fontsize=18, fontweight='bold', color
 ax.text(19.5, 2.8, 'Results:', ha='center', fontsize=18, fontweight='bold', color=BLUE_DARK)
 
 draw_box(ax, 6.5, 0.5, 11, 4.0, 
-         'MDD to Anxiety\n\nIVW OR = 2.34\n(95% CI: 2.23-2.46)\nP = 1.66 x 10^-257\n\nNo directional pleiotropy\n(Egger P = 0.543)',
+         'MDD to Anxiety\n\nIVW OR = 2.34\n(95% CI: 2.23-2.46)\nP = 1.66 x 10^-257\n\nNo directional pleiotropy\n(Egger P = 0.864)',
          GREEN, fontsize=15)
 
 draw_box(ax, 19.5, 0.5, 11, 4.0, 
-         'Anxiety to MDD\n\nIVW OR = 1.68\n(95% CI: 1.60-1.76)\nP = 1.97 x 10^-104\n\nDirectional pleiotropy\n(Egger P = 0.013)',
+         'Anxiety to MDD\n\nIVW OR = 1.68\n(95% CI: 1.60-1.76)\nP = 1.97 x 10^-104\n\nDirectional pleiotropy\n(Egger P = 0.006)',
          ORANGE, fontsize=15)
 
 draw_arrow(ax, 6.5, 4.8, 6.5, 2.5, color=GREEN)

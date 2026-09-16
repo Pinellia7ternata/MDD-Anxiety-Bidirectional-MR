@@ -49,12 +49,12 @@ ax_b.axis('off')
 rect = FancyBboxPatch((1.5, 2.0), 13, 4.5, boxstyle="round,pad=0.2,rounding_size=0.5",
                        facecolor='#2471A3', edgecolor='#1A5276', linewidth=5)
 ax_b.add_patch(rect)
-ax_b.text(8, 5.0, 'rg = 0.263', ha='center', va='center', fontsize=34,
+ax_b.text(8, 5.0, 'rg = 0.90', ha='center', va='center', fontsize=34,
           fontweight='bold', color='white')
 
 # SE and P-value
-ax_b.text(8, 1.4, 'SE = 0.031', ha='center', va='center', fontsize=16, color='#717D7E')
-ax_b.text(8, 0.3, 'P = 2.1 x 10^-14', ha='center', va='center', fontsize=16,
+ax_b.text(8, 1.4, 'SE = 0.032', ha='center', va='center', fontsize=16, color='#717D7E')
+ax_b.text(8, 0.3, 'P < 1 x 10^-100', ha='center', va='center', fontsize=16,
           color='#A93226', fontweight='bold')
 
 ax_b.set_title('Panel B: LDSC Genetic Correlation', fontsize=18, fontweight='bold',
