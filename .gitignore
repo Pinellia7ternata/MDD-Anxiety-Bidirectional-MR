@@ -1,0 +1,23 @@
+# R
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Intermediate / large analysis artifacts (not needed for reproducibility)
+*.rds
+*.RData
+*.csv.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local tokens / secrets
+*.token
+.env
