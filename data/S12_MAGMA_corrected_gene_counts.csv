@@ -1,0 +1,8 @@
+analysis,trait,N_genes_tested,nominal_P0.05,bonferroni,bh_fdr_5pct,shared_with_other_trait_bonf,shared_with_other_trait_fdr,source
+MAGMA_gene_counts,MDD,19479,5625,382,2717,71 (18.6% of MDD),571 (21.0% of MDD),FUMA_job739240 magma.genes.out
+MAGMA_gene_counts,Anxiety,18768,3627,96,862,71 (74.0% of ANX),571 (66.2% of ANX),FUMA_job739236 magma.genes.out
+eQTL_S5_verification,MDD,NA,NA,NA,NA,110524 rows; 252 genes; top ZNF660 FDR=7.68099e-49 (cerebellum),13 brain tissues,FUMA_job739240 eqtl annotation
+eQTL_S5_verification,Anxiety,NA,NA,NA,NA,21668 rows; 85 genes; top ZNF660 FDR=7.68099e-49 (cerebellum),13 brain tissues,FUMA_job739236 eqtl annotation
+eQTL_FDR_note,both,NA,NA,NA,NA,identical FDR expected: values are properties of the GTEx eQTL itself,not a copy error,FUMA annotation logic
+tissue_enrichment,MDD,NA,NA,NA,NA,all 13 brain regions significant (best: cerebellar hemisphere P=4.2e-18); whole blood null,NA,FUMA_job739240 gtex_v8_ts gsa
+tissue_enrichment,Anxiety,NA,NA,NA,NA,all 13 brain regions significant (best: frontal cortex BA9 P=4.5e-15); whole blood P=0.95,NA,FUMA_job739236 gtex_v8_ts gsa
