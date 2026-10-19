@@ -1,0 +1,14 @@
+Locus,Lead_SNP,Chr_Pos_hg19,Gene,Gene_type,Brain_Cortex_eQTLs,Brain_Cerebellum_eQTLs,Brain_Hypothalamus_eQTLs,Brain_Amygdala_eQTLs,Whole_Blood_eQTLs,Top_eQTL_detail,Lead_SNP_is_significant_eQTL,Interpretation
+1,rs8039305,chr15:91422543,FURIN,protein coding,0,0,NA,NA,36,"blood top rs11377009 P=1.2e-5 NES=+0.065; no significant brain cis-eQTL",No,Regulated in blood only; brain regulatory support absent in GTEx v8
+2,rs4532962,chr10:106417957,SORCS3,protein coding,0,0,NA,NA,0,"no significant cis-eQTL in tested tissues (cortex/cerebellum/BA9/blood)",No,No GTEx v8 cis-eQTL support; may reflect low assayable expression
+3,rs34303669,chr10:106669028,SORCS3,protein coding,0,0,NA,NA,0,same as locus 2,No,same as locus 2
+4,rs35978090,chr10:106950787,SORCS3,protein coding,0,0,NA,NA,0,same as locus 2,No,same as locus 2
+5,rs79175454,chr7:12085812,TMEM106B,protein coding,112,181,NA,NA,NA,"cortex top rs1019309 P=9.1e-6 NES=+0.148; FTD risk variant rs1990622 among cortex eQTLs (P=2.2e-5 NES=+0.144)",No,Strong brain cis-regulatory signal at the locus; consistent with lysosomal-expression mechanism
+6,rs11686281,chr2:58478157,EIF3FP3,processed pseudogene,0,NA,NA,NA,NA,none,No,Pseudogene; not a drug-target candidate
+7,rs13025126,chr2:57956088,CTD-2026C7.1,uncharacterized transcript,NA,NA,NA,NA,NA,not evaluated (uncharacterized transcript),No,Uncharacterized transcript; annotation-only locus
+8,rs6732310,chr2:58210239,VRK2,protein coding,0,0,NA,NA,171,"blood top rs28452374 P=1.5e-7 NES=-0.184; no significant brain cis-eQTL",No,Regulated in blood only in GTEx v8; brain eQTL support absent
+9,rs80533,chr22:41085969,MCHR1,protein coding,50,373,0,0,NA,"cortex top rs150640463 P=9.3e-7 NES=+0.205; cerebellum top rs34503826 P=1.5e-6 NES=-0.351",No,Abundant brain cis-eQTLs at the locus; direction differs between cortex and cerebellum; formal SMR needed
+10,rs2413631,chr22:41359786,XPNPEP3,protein coding,0,144,NA,NA,NA,"cerebellum top rs133076 P=5.3e-8 NES=-0.300",No,Cerebellum-specific cis-regulatory signal
+10,rs2413631,chr22:41359786,RBX1,protein coding,0,0,NA,NA,NA,none in cortex/cerebellum,No,No GTEx v8 cis-eQTL support in tested tissues
+11,rs9611519,chr22:41613188,L3MBTL2,protein coding,121,123,NA,NA,NA,"cortex top cluster P=1.5e-6 NES=-0.210 (e.g. rs139431)",No,Strong brain cis-regulatory signal at the locus
+11,rs9611519,chr22:41613188,RP4-756G23.5,lncRNA/uncharacterized,NA,NA,NA,NA,NA,not evaluated (uncharacterized transcript),No,Uncharacterized transcript; annotation-only
