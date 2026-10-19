@@ -1,0 +1,8 @@
+analysis,parameter,value,note
+shared_gene_overlap,N_universe_18000,expected=1133.4;observed=2128;fold=1.88;P<1e-308,hypergeometric (scipy.stats.hypergeom.sf)
+shared_gene_overlap,N_universe_19000,expected=1073.8;observed=2128;fold=1.98;P<1e-308,primary estimate
+shared_gene_overlap,N_universe_20000,expected=1020.1;observed=2128;fold=2.09;P<1e-308,sensitivity
+pathway_bonferroni,library_5000,threshold=1.00e-05,MDD top3 pass; anxiety GABAergic passes
+pathway_bonferroni,library_7500,threshold=6.67e-06,MDD top3 pass; anxiety GABAergic marginal fail
+pathway_bonferroni,library_10000,threshold=5.00e-06,MDD top3 pass; anxiety GABAergic fails
+caveat,rg_dependence,rg=0.90 inflates true chance overlap; hypergeometric null is anti-conservative for this pair,state in manuscript
