@@ -1,0 +1,17 @@
+model,exposure,n,beta_pkg,se_pkg,beta_sw,se_sw,se_sw_scaled,or_sw,lo,hi,p_sw,conditional_F,dispersion_pkg,dispersion_sw,palindromic,beta_sw_no_palindromic,or_sw_no_palindromic
+forward | exposure-only union,MDD,237,0.8818,0.0395,0.9453,0.0298,0.0352,2.5737,2.4022,2.7575,0.0,12.06,1.39,1.398,16,0.9356,2.5487
+forward | exposure-only union,BMI,237,-0.0652,0.0298,-0.0674,0.0222,0.0263,0.9349,0.8879,0.9843,0.01097997,16.59,1.39,1.398,16,-0.0658,0.9363
+forward | exposure-only union,education,237,0.006,0.0322,0.0049,0.0249,0.0295,1.0049,0.9485,1.0647,0.8679258,8.11,1.39,1.398,16,0.0048,1.0048
+forward | exposure-only union,smoking initiation,237,0.0071,0.0383,-0.0202,0.0293,0.0346,0.98,0.9157,1.0488,0.56043283,8.67,1.39,1.398,16,-0.023,0.9773
+forward | covariates from exposure instruments,MDD,84,0.829,0.0568,0.7682,0.0565,0.0868,2.1559,1.8188,2.5555,0.0,4.98,1.388,2.359,5,-0.5382,0.5838
+forward | covariates from exposure instruments,BMI,84,0.1225,0.1116,-0.0808,0.1334,0.2049,0.9224,0.6173,1.3783,0.69449234,3.26,1.388,2.359,5,-2.4336,0.0877
+forward | covariates from exposure instruments,education,84,0.0629,0.1358,1.7316,0.6379,0.9798,5.6498,0.8279,38.5547,0.08099739,1.04,1.388,2.359,5,21.0442,1378399937.7967
+forward | covariates from exposure instruments,smoking initiation,84,0.1356,0.1052,0.0737,0.0907,0.1393,1.0765,0.8193,1.4143,0.59830308,3.47,1.388,2.359,5,0.7348,2.085
+reverse | exposure-only union,anxiety disorders,180,0.469,0.0267,0.5375,0.017,0.0223,1.7118,1.6387,1.7881,0.0,7.59,1.69,1.722,12,0.5399,1.7158
+reverse | exposure-only union,BMI,180,0.0385,0.0223,0.0466,0.0136,0.0178,1.0477,1.0117,1.085,0.00970095,18.92,1.69,1.722,12,0.0418,1.0426
+reverse | exposure-only union,education,180,0.0074,0.0238,0.0081,0.0149,0.0195,1.0081,0.9702,1.0474,0.68069703,10.34,1.69,1.722,12,0.006,1.006
+reverse | exposure-only union,smoking initiation,180,0.1062,0.0272,0.0941,0.0169,0.0221,1.0987,1.0521,1.1474,3.407e-05,11.23,1.69,1.722,12,0.1048,1.1105
+reverse | covariates from exposure instruments,anxiety disorders,27,0.4857,0.0353,0.4965,0.0223,0.0357,1.6429,1.532,1.7618,0.0,12.89,1.658,2.564,1,0.5084,1.6627
+reverse | covariates from exposure instruments,BMI,27,0.1485,0.144,0.5908,0.1334,0.2136,1.8055,1.188,2.744,0.01098165,2.51,1.658,2.564,1,0.4495,1.5676
+reverse | covariates from exposure instruments,education,27,0.1825,0.1484,0.9934,0.2012,0.3222,2.7003,1.4359,5.0781,0.00525637,1.53,1.658,2.564,1,0.641,1.8983
+reverse | covariates from exposure instruments,smoking initiation,27,0.0983,0.101,0.1402,0.0674,0.108,1.1505,0.9311,1.4217,0.20699096,6.6,1.658,2.564,1,0.1126,1.1192

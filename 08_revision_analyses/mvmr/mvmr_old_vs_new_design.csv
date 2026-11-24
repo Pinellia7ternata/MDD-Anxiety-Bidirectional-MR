@@ -1,0 +1,5 @@
+"model","nsnp","beta","se","or_","lo","hi","p","condF_primary","condF_BMI","condF_Edu","condF_Smoke"
+"forward | exposure-selected instruments (old design)",84,0.829,0.0568,2.291,2.05,2.561,2.85e-24,5,3.3,1,3.5
+"forward | independent covariate instruments",264,1.0375,0.0445,2.822,2.587,3.079,1.09e-65,12.4,15.5,7.5,8.5
+"reverse | exposure-selected instruments (old design)",27,0.4857,0.0353,1.625,1.517,1.742,1.38e-12,12.9,2.5,1.5,6.6
+"reverse | independent covariate instruments",264,0.6548,0.028,1.925,1.822,2.033,5.46e-66,7.9,15,7.5,8.6
