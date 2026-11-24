@@ -1,0 +1,20 @@
+{
+  "BMI_ieu_a_2": {
+    "variants_scanned": 2554285,
+    "gws": 1982,
+    "gws_clumped": 84,
+    "primary_instruments_with_data": 115
+  },
+  "Education_ieu_a_80": {
+    "variants_scanned": 2467280,
+    "gws": 787,
+    "gws_clumped": 32,
+    "primary_instruments_with_data": 115
+  },
+  "SmokingInit_ieu_b_4877": {
+    "variants_scanned": 11802365,
+    "gws": 7846,
+    "gws_clumped": 107,
+    "primary_instruments_with_data": 234
+  }
+}
