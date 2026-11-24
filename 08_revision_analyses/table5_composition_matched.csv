@@ -1,0 +1,17 @@
+coloc_thresh,direction,comparator,statistic,n_deleted,n_retained,null_mean,null_sd,observed,z,percentile_of_observed,n_rep,baseline_value
+0.5,MDD -> anxiety,uniform random,Q_per_instrument,90,108,1.8389,0.1667,1.1805,-3.95,0.0,2000,1.8437
+0.5,MDD -> anxiety,uniform random,IVW_OR,90,108,2.3441,0.0544,1.8809,-8.51,0.0,2000,2.3435
+0.5,MDD -> anxiety,retained-composition matched,Q_per_instrument,90,108,1.8392,0.1675,1.1805,-3.93,0.0,2000,1.8437
+0.5,MDD -> anxiety,retained-composition matched,IVW_OR,90,108,2.3438,0.053,1.8809,-8.74,0.0,2000,2.3435
+0.5,Anxiety -> MDD,uniform random,Q_per_instrument,28,22,3.0825,0.6798,1.5367,-2.27,0.7,2000,3.0877
+0.5,Anxiety -> MDD,uniform random,IVW_OR,28,22,1.6789,0.0451,1.4727,-4.58,0.0,2000,1.677
+0.5,Anxiety -> MDD,retained-composition matched,Q_per_instrument,28,22,3.3904,0.6166,1.5367,-3.01,0.15,2000,3.0877
+0.5,Anxiety -> MDD,retained-composition matched,IVW_OR,28,22,1.6659,0.0428,1.4727,-4.51,0.0,2000,1.677
+0.95,MDD -> anxiety,uniform random,Q_per_instrument,28,170,1.8434,0.0752,1.6397,-2.71,0.85,2000,1.8437
+0.95,MDD -> anxiety,uniform random,IVW_OR,28,170,2.3428,0.0232,2.1936,-6.43,0.0,2000,2.3435
+0.95,MDD -> anxiety,retained-composition matched,Q_per_instrument,28,170,1.8507,0.069,1.6397,-3.06,0.2,2000,1.8437
+0.95,MDD -> anxiety,retained-composition matched,IVW_OR,28,170,2.3428,0.023,2.1936,-6.48,0.0,2000,2.3435
+0.95,Anxiety -> MDD,uniform random,Q_per_instrument,13,37,3.0798,0.3536,2.8579,-0.63,25.95,2000,3.0877
+0.95,Anxiety -> MDD,uniform random,IVW_OR,13,37,1.6775,0.0233,1.6029,-3.2,0.0,2000,1.677
+0.95,Anxiety -> MDD,retained-composition matched,Q_per_instrument,13,37,3.2414,0.2952,2.8579,-1.3,10.7,2000,3.0877
+0.95,Anxiety -> MDD,retained-composition matched,IVW_OR,13,37,1.6857,0.0224,1.6029,-3.7,0.0,2000,1.677

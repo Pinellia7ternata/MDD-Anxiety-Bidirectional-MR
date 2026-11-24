@@ -1,0 +1,25 @@
+coloc_thresh,direction,n_total,n_deleted,n_retained,baseline_Q,baseline_OR,statistic,comparator,mean,sd,observed,z,empirical_p,n_rep
+0.5,fwd,198,90,108,1.844,2.343,Q_per_instrument,random subsets,1.8455,0.1623,1.1805,-4.1,0.0,2000
+0.5,fwd,198,90,108,1.844,2.343,Q_per_instrument,F-stratified random,1.8302,0.1715,1.1805,-3.79,0.0,2000
+0.5,fwd,198,90,108,1.844,2.343,Q_per_instrument,Q-greedy deletion,0.3067,,1.1805,,,1
+0.5,fwd,198,90,108,1.844,2.343,IVW_OR,random subsets,2.3445,0.0531,1.8809,-8.74,0.0,2000
+0.5,fwd,198,90,108,1.844,2.343,IVW_OR,F-stratified random,2.346,0.052,1.8809,-8.95,0.0,2000
+0.5,fwd,198,90,108,1.844,2.343,IVW_OR,Q-greedy deletion,2.4015,,1.8809,,,1
+0.5,rev,50,28,22,3.088,1.677,Q_per_instrument,random subsets,3.0805,0.6606,1.5367,-2.34,0.015,2000
+0.5,rev,50,28,22,3.088,1.677,Q_per_instrument,F-stratified random,3.1465,0.583,1.5367,-2.76,0.005,2000
+0.5,rev,50,28,22,3.088,1.677,Q_per_instrument,Q-greedy deletion,0.1983,,1.5367,,,1
+0.5,rev,50,28,22,3.088,1.677,IVW_OR,random subsets,1.6782,0.0457,1.4727,-4.49,0.0,2000
+0.5,rev,50,28,22,3.088,1.677,IVW_OR,F-stratified random,1.673,0.043,1.4727,-4.65,0.0,2000
+0.5,rev,50,28,22,3.088,1.677,IVW_OR,Q-greedy deletion,1.7317,,1.4727,,,1
+0.95,fwd,198,28,170,1.844,2.343,Q_per_instrument,random subsets,1.8442,0.0732,1.6397,-2.8,0.01,2000
+0.95,fwd,198,28,170,1.844,2.343,Q_per_instrument,F-stratified random,1.8397,0.0741,1.6397,-2.7,0.014,2000
+0.95,fwd,198,28,170,1.844,2.343,Q_per_instrument,Q-greedy deletion,0.9929,,1.6397,,,1
+0.95,fwd,198,28,170,1.844,2.343,IVW_OR,random subsets,2.3439,0.0237,2.1936,-6.33,0.0,2000
+0.95,fwd,198,28,170,1.844,2.343,IVW_OR,F-stratified random,2.3398,0.0234,2.1936,-6.25,0.0,2000
+0.95,fwd,198,28,170,1.844,2.343,IVW_OR,Q-greedy deletion,2.3925,,2.1936,,,1
+0.95,rev,50,13,37,3.088,1.677,Q_per_instrument,random subsets,3.0756,0.3586,2.8579,-0.61,0.563,2000
+0.95,rev,50,13,37,3.088,1.677,Q_per_instrument,F-stratified random,2.9681,0.3101,2.8579,-0.36,0.717,2000
+0.95,rev,50,13,37,3.088,1.677,Q_per_instrument,Q-greedy deletion,1.1045,,2.8579,,,1
+0.95,rev,50,13,37,3.088,1.677,IVW_OR,random subsets,1.6771,0.0239,1.6029,-3.11,0.002,2000
+0.95,rev,50,13,37,3.088,1.677,IVW_OR,F-stratified random,1.6762,0.023,1.6029,-3.18,0.001,2000
+0.95,rev,50,13,37,3.088,1.677,IVW_OR,Q-greedy deletion,1.6673,,1.6029,,,1
