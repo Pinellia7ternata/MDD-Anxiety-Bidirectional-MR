@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1116pt" height="403.2pt" viewBox="0 0 1116 403.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T17:10:21.972373</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 403.2 
+L 1116 403.2 
+L 1116 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 44.64 326.592 
+L 486.39 326.592 
+L 486.39 84.672 
+L 44.64 84.672 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 44.64 326.592 
+L 44.64 84.672 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #b3b6b7; stroke-width: 1.8"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_2">
+      <path d="M 44.64 326.592 
+L 44.64 84.672 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_3">
+      <defs>
+       <path id="m92d2b8c233" d="M 0 0 
+L 0 3.5 
+" style="stroke: #b3b6b7; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m92d2b8c233" x="44.64" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_4">
+      <path d="M 140.330781 326.592 
+L 140.330781 84.672 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="140.330781" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_6">
+      <path d="M 208.22447 326.592 
+L 208.22447 84.672 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="208.22447" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_8">
+      <path d="M 260.886907 326.592 
+L 260.886907 84.672 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="260.886907" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_10">
+      <path d="M 303.915251 326.592 
+L 303.915251 84.672 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="303.915251" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_12">
+      <path d="M 340.295197 326.592 
+L 340.295197 84.672 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="340.295197" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_14">
+      <path d="M 371.80894 326.592 
+L 371.80894 84.672 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="371.80894" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_1">
+     <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #2c3e50" x="265.515" y="346.330203" transform="rotate(-0 265.515 346.330203)">Odds ratio per unit increase in liability (log scale)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_16">
+    <path d="M 242.118588 283.0464 
+L 278.802364 283.0464 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #717d7e; stroke-width: 2.4"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 185.811139 266.59584 
+L 266.072585 266.59584 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #2471a3; stroke-width: 2.6"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 246.501404 186.2784 
+L 280.376665 186.2784 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #717d7e; stroke-width: 2.4"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 251.464492 169.82784 
+L 284.020586 169.82784 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #2471a3; stroke-width: 2.6"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 44.64 326.592 
+L 486.39 326.592 
+" style="fill: none; stroke: #b3b6b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #2471a3" x="49.941" y="247.935358" transform="rotate(-0 49.941 247.935358)">covariates inherit the MDD instruments (84 variants)</text>
+   </g>
+   <g id="line2d_20">
+    <path d="M 260.460476 283.0464 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="mae43564223" d="M -4.5 4.5 
+L 4.5 4.5 
+L 4.5 -4.5 
+L -4.5 -4.5 
+z
+" style="stroke: #717d7e; stroke-width: 2; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#p31935c5563)">
+     <use xlink:href="#mae43564223" x="260.460476" y="283.0464" style="fill: #ffffff; stroke: #717d7e; stroke-width: 2; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_21">
+    <path d="M 225.941862 266.59584 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="m4e47bd48c6" d="M 0 5.5 
+C 1.458617 5.5 2.857689 4.920485 3.889087 3.889087 
+C 4.920485 2.857689 5.5 1.458617 5.5 0 
+C 5.5 -1.458617 4.920485 -2.857689 3.889087 -3.889087 
+C 2.857689 -4.920485 1.458617 -5.5 0 -5.5 
+C -1.458617 -5.5 -2.857689 -4.920485 -3.889087 -3.889087 
+C -4.920485 -2.857689 -5.5 -1.458617 -5.5 0 
+C -5.5 1.458617 -4.920485 2.857689 -3.889087 3.889087 
+C -2.857689 4.920485 -1.458617 5.5 0 5.5 
+z
+" style="stroke: #2471a3"/>
+    </defs>
+    <g clip-path="url(#p31935c5563)">
+     <use xlink:href="#m4e47bd48c6" x="225.941862" y="266.59584" style="fill: #2471a3; stroke: #2471a3"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #2471a3" x="315.429852" y="267.377663" transform="rotate(-0 315.429852 267.377663)">direct 2.16 (1.82-2.56)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #717d7e" x="315.429852" y="283.828223" transform="rotate(-0 315.429852 283.828223)">univariable 2.50 (2.31-2.70)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #2c3e50" x="315.429852" y="300.020096" transform="rotate(-0 315.429852 300.020096)">ratio of betas 0.84</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #2471a3" x="49.941" y="151.167358" transform="rotate(-0 49.941 151.167358)">instruments: MDD, BMI, education, smoking (237 variants)</text>
+   </g>
+   <g id="line2d_22">
+    <path d="M 263.439034 186.2784 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p31935c5563)">
+     <use xlink:href="#mae43564223" x="263.439034" y="186.2784" style="fill: #ffffff; stroke: #717d7e; stroke-width: 2; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_23">
+    <path d="M 267.742539 169.82784 
+" clip-path="url(#p31935c5563)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p31935c5563)">
+     <use xlink:href="#m4e47bd48c6" x="267.742539" y="169.82784" style="fill: #2471a3; stroke: #2471a3"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #2471a3" x="315.429852" y="170.609663" transform="rotate(-0 315.429852 170.609663)">direct 2.57 (2.40-2.76)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #717d7e" x="315.429852" y="187.060223" transform="rotate(-0 315.429852 187.060223)">univariable 2.53 (2.35-2.72)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #2c3e50" x="315.429852" y="203.252096" transform="rotate(-0 315.429852 203.252096)">ratio of betas 1.02</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start; fill: #717d7e" x="51.615951" y="98.731697" transform="rotate(-0 51.615951 98.731697)">OR = 1</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="44.64" y="331.697261" transform="rotate(-0 44.64 331.697261)">1.0</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="140.330781" y="331.697261" transform="rotate(-0 140.330781 331.697261)">1.5</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="208.22447" y="331.697261" transform="rotate(-0 208.22447 331.697261)">2.0</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="260.886907" y="331.697261" transform="rotate(-0 260.886907 331.697261)">2.5</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="303.915251" y="331.697261" transform="rotate(-0 303.915251 331.697261)">3.0</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #1a5276" x="22.5525" y="74.9952" transform="rotate(-0 22.5525 74.9952)">A</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #1a5276" x="265.515" y="74.672" transform="rotate(-0 265.515 74.672)">MDD → anxiety disorders</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 663.09 326.592 
+L 1104.84 326.592 
+L 1104.84 84.672 
+L 663.09 84.672 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 663.09 326.592 
+L 663.09 84.672 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #b3b6b7; stroke-width: 1.8"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_8">
+     <g id="line2d_25">
+      <path d="M 663.09 326.592 
+L 663.09 84.672 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="663.09" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_27">
+      <path d="M 758.780781 326.592 
+L 758.780781 84.672 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="758.780781" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_29">
+      <path d="M 826.67447 326.592 
+L 826.67447 84.672 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="826.67447" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_31">
+      <path d="M 879.336907 326.592 
+L 879.336907 84.672 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m30dd0c2f58" x="879.336907" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_33">
+      <path d="M 922.365251 326.592 
+L 922.365251 84.672 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="922.365251" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_35">
+      <path d="M 958.745197 326.592 
+L 958.745197 84.672 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="958.745197" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_37">
+      <path d="M 990.25894 326.592 
+L 990.25894 84.672 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #eaecee; stroke-width: 0.9; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m92d2b8c233" x="990.25894" y="326.592" style="fill: #b3b6b7; stroke: #b3b6b7; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_18">
+     <text style="font-size: 11.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #2c3e50" x="883.965" y="346.330203" transform="rotate(-0 883.965 346.330203)">Odds ratio per unit increase in liability (log scale)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_39">
+    <path d="M 769.596932 283.0464 
+L 798.218865 283.0464 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #717d7e; stroke-width: 2.4"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 763.76507 266.59584 
+L 796.747825 266.59584 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #a93226; stroke-width: 2.6"/>
+   </g>
+   <g id="line2d_41">
+    <path d="M 781.288795 186.2784 
+L 808.634865 186.2784 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #717d7e; stroke-width: 2.4"/>
+   </g>
+   <g id="line2d_42">
+    <path d="M 779.652564 169.82784 
+L 800.250111 169.82784 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #a93226; stroke-width: 2.6"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 663.09 326.592 
+L 1104.84 326.592 
+" style="fill: none; stroke: #b3b6b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #a93226" x="668.391" y="247.935358" transform="rotate(-0 668.391 247.935358)">covariates inherit the anxiety instruments (27 variants)</text>
+   </g>
+   <g id="line2d_43">
+    <path d="M 783.907899 283.0464 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p929e5f79da)">
+     <use xlink:href="#mae43564223" x="783.907899" y="283.0464" style="fill: #ffffff; stroke: #717d7e; stroke-width: 2; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_44">
+    <path d="M 780.256447 266.59584 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="m30dd0c2f58" d="M 0 5.5 
+C 1.458617 5.5 2.857689 4.920485 3.889087 3.889087 
+C 4.920485 2.857689 5.5 1.458617 5.5 0 
+C 5.5 -1.458617 4.920485 -2.857689 3.889087 -3.889087 
+C 2.857689 -4.920485 1.458617 -5.5 0 -5.5 
+C -1.458617 -5.5 -2.857689 -4.920485 -3.889087 -3.889087 
+C -4.920485 -2.857689 -5.5 -1.458617 -5.5 0 
+C -5.5 1.458617 -4.920485 2.857689 -3.889087 3.889087 
+C -2.857689 4.920485 -1.458617 5.5 0 5.5 
+z
+" style="stroke: #a93226"/>
+    </defs>
+    <g clip-path="url(#p929e5f79da)">
+     <use xlink:href="#m30dd0c2f58" x="780.256447" y="266.59584" style="fill: #a93226; stroke: #a93226"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #a93226" x="933.879852" y="267.377663" transform="rotate(-0 933.879852 267.377663)">direct 1.64 (1.53-1.76)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #717d7e" x="933.879852" y="283.828223" transform="rotate(-0 933.879852 283.828223)">univariable 1.67 (1.57-1.77)</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #2c3e50" x="933.879852" y="300.020096" transform="rotate(-0 933.879852 300.020096)">ratio of betas 0.97</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #a93226" x="668.391" y="151.167358" transform="rotate(-0 668.391 151.167358)">instruments: anxiety disorders, BMI, education, smoking (180 variants)</text>
+   </g>
+   <g id="line2d_45">
+    <path d="M 794.96183 186.2784 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p929e5f79da)">
+     <use xlink:href="#mae43564223" x="794.96183" y="186.2784" style="fill: #ffffff; stroke: #717d7e; stroke-width: 2; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_46">
+    <path d="M 789.951337 169.82784 
+" clip-path="url(#p929e5f79da)" style="fill: none; stroke: #d62728; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p929e5f79da)">
+     <use xlink:href="#m30dd0c2f58" x="789.951337" y="169.82784" style="fill: #a93226; stroke: #a93226"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #a93226" x="933.879852" y="170.609663" transform="rotate(-0 933.879852 170.609663)">direct 1.71 (1.64-1.79)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10.5px; font-family: 'Arial'; text-anchor: start; fill: #717d7e" x="933.879852" y="187.060223" transform="rotate(-0 933.879852 187.060223)">univariable 1.75 (1.65-1.85)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 9.5px; font-family: 'Arial'; text-anchor: start; fill: #2c3e50" x="933.879852" y="203.252096" transform="rotate(-0 933.879852 203.252096)">ratio of betas 0.96</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start; fill: #717d7e" x="670.065951" y="98.731697" transform="rotate(-0 670.065951 98.731697)">OR = 1</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="663.09" y="331.697261" transform="rotate(-0 663.09 331.697261)">1.0</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="758.780781" y="331.697261" transform="rotate(-0 758.780781 331.697261)">1.5</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="826.67447" y="331.697261" transform="rotate(-0 826.67447 331.697261)">2.0</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="879.336907" y="331.697261" transform="rotate(-0 879.336907 331.697261)">2.5</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: middle; fill: #2c3e50" x="922.365251" y="331.697261" transform="rotate(-0 922.365251 331.697261)">3.0</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #1a5276" x="641.0025" y="74.9952" transform="rotate(-0 641.0025 74.9952)">B</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #1a5276" x="883.965" y="74.672" transform="rotate(-0 883.965 74.672)">anxiety disorders → MDD</text>
+   </g>
+  </g>
+  <g id="text_35">
+   <text style="font-weight: 700; font-size: 13.5px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #1a5276" x="13.392" y="16.305891" transform="rotate(-0 13.392 16.305891)">Figure 3  Direct multivariable estimates against the univariable estimate on the same variants and the same estimator</text>
+  </g>
+  <g id="legend_1">
+   <g id="line2d_47">
+    <path d="M 363.200781 385.072056 
+L 371.200781 385.072056 
+L 379.200781 385.072056 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: square"/>
+    <g>
+     <use xlink:href="#mae43564223" x="371.200781" y="385.072056" style="fill: #ffffff; stroke: #717d7e; stroke-width: 2; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="387.200781" y="388.572056" transform="rotate(-0 387.200781 388.572056)">univariable IVW on these variants</text>
+   </g>
+   <g id="line2d_48">
+    <path d="M 576.149219 385.072056 
+L 584.149219 385.072056 
+L 592.149219 385.072056 
+" style="fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="m083d372132" d="M 0 5.5 
+C 1.458617 5.5 2.857689 4.920485 3.889087 3.889087 
+C 4.920485 2.857689 5.5 1.458617 5.5 0 
+C 5.5 -1.458617 4.920485 -2.857689 3.889087 -3.889087 
+C 2.857689 -4.920485 1.458617 -5.5 0 -5.5 
+C -1.458617 -5.5 -2.857689 -4.920485 -3.889087 -3.889087 
+C -4.920485 -2.857689 -5.5 -1.458617 -5.5 0 
+C -5.5 1.458617 -4.920485 2.857689 -3.889087 3.889087 
+C -2.857689 4.920485 -1.458617 5.5 0 5.5 
+z
+" style="stroke: #ffffff"/>
+    </defs>
+    <g>
+     <use xlink:href="#m083d372132" x="584.149219" y="385.072056" style="fill: #2471a3; stroke: #ffffff"/>
+    </g>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="600.149219" y="388.572056" transform="rotate(-0 600.149219 388.572056)">direct (multivariable) estimate</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p31935c5563">
+   <rect x="44.64" y="84.672" width="441.75" height="241.92"/>
+  </clipPath>
+  <clipPath id="p929e5f79da">
+   <rect x="663.09" y="84.672" width="441.75" height="241.92"/>
+  </clipPath>
+ </defs>
+</svg>
